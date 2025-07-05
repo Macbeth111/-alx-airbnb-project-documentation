@@ -1,4 +1,7 @@
-Airbnb Clone Backend (Microservices & AI-Powered)
+# Airbnb Clone Backend (Microservices & AI-Powered)
+
+![features-and-functionalities](https://github.com/user-attachments/assets/f3dfc9b9-64e3-44b1-a417-108a46e92d46)
+
 Project Overview
 
 This project is an ambitious, enterprise-scalable backend for an Airbnb-like rental marketplace. Developed as a key component of a professional portfolio, it showcases a robust microservices architecture seamlessly integrated with Big Data capabilities and AI-powered features such as personalized search and ad listings.
